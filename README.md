@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data_Science 
 - 🌱 I’m currently learning Data_Science and Machine_Learning
 - 💞️ I’m looking to collaborate on Data_Science_field
-- 📫 How to reach me instagram_@rock_ravi_pal
+- 📫 How to reach me instagram_@jaadu_lives_here
 
 <!---
 MrRockRavi/MrRockRavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
